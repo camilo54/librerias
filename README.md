@@ -1,4 +1,4 @@
 librerias
 =========
 
-clases para bases de datos y paginación PHP
+Clases para bases de datos y paginación PHP
